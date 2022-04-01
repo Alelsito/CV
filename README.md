@@ -1,2 +1,2 @@
 # CV
-Este es mi curriculum (borrador)
+Este es mi curriculum
